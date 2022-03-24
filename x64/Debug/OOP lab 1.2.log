@@ -1,0 +1,11 @@
+﻿  Source.cpp
+  square.cpp
+C:\Users\LENOVO\source\repos\OOP lab 1.2\square.cpp(6,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\OOP lab 1.2\square.cpp(11,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\OOP lab 1.2\square.cpp(16,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\OOP lab 1.2\square.cpp(21,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\LENOVO\source\repos\OOP lab 1.2\square.cpp(7): error C4716: 'square::setX1': must return a value
+C:\Users\LENOVO\source\repos\OOP lab 1.2\square.cpp(17): error C4716: 'square::setY1': must return a value
+C:\Users\LENOVO\source\repos\OOP lab 1.2\square.cpp(22): error C4716: 'square::setY2': must return a value
+C:\Users\LENOVO\source\repos\OOP lab 1.2\square.cpp(12): error C4716: 'square::setX2': must return a value
